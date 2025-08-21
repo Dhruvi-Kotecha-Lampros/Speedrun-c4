@@ -9,3 +9,15 @@ node_modules/
 **/*.png
 **/*.svg
 **/generated/**/*
+
+# folders
+.next
+node_modules/
+# files
+**/*.less
+**/*.css
+**/*.scss
+**/*.json
+**/*.png
+**/*.svg
+**/generated/**/*
